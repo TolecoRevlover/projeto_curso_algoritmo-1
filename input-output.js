@@ -1,4 +1,4 @@
-//Projetin
+
 var nome, nota;
 nome = prompt("Digite o seu nome:")
 nota = prompt("Digite a sua nota:")
